@@ -18,7 +18,7 @@
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Txb-mH-DPE">
                                 <rect key="frame" x="114" y="70.000000000000014" width="200" height="205.33333333333337"/>
-                                <color key="backgroundColor" red="0.48927952026583488" green="0.15951903987443708" blue="0.12351473234236449" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <color key="backgroundColor" red="0.5" green="0.15778022999999999" blue="0.15786619698772322" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="205.33333333333337" id="W03-i5-17r"/>
                                     <constraint firstAttribute="width" constant="200" id="waG-m1-WZa"/>
@@ -26,7 +26,7 @@
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Mgn-aV-q8j">
                                 <rect key="frame" x="114" y="299" width="200" height="205.33333333333337"/>
-                                <color key="backgroundColor" red="0.496569446681701" green="0.41510697907427302" blue="0.13632602789057599" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <color key="backgroundColor" red="0.5" green="0.5" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="200" id="YJk-KE-Jvc"/>
                                     <constraint firstAttribute="height" constant="205.33333333333337" id="cbV-Py-4gB"/>
@@ -34,7 +34,7 @@
                             </view>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="dhH-kW-DjH">
                                 <rect key="frame" x="114" y="528" width="200" height="205.33333333333337"/>
-                                <color key="backgroundColor" red="0.24446546280109901" green="0.48381443613583275" blue="0.24932585364700735" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <color key="backgroundColor" red="0.0" green="0.5" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="205.33333333333337" id="h63-xc-8Lw"/>
                                     <constraint firstAttribute="width" constant="200" id="sFJ-o1-Fp1"/>
